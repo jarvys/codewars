@@ -1,0 +1,14 @@
+{
+  "name": "ParseMolecule",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "~1.20.1"
+  }
+}
